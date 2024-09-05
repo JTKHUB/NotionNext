@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'XIANGE',
-  HEO_HERO_TITLE_2: '欢迎来到我的博客',
+  HEO_HERO_TITLE_2: '欢迎访问',
   HEO_HERO_TITLE_3: 'HCYM.TOP',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '博客已改版',
