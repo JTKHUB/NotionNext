@@ -493,7 +493,7 @@ const BLOG = {
     type_post: process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_POST || 'Post', // 当type文章类型与此值相同时，为博文。
     type_page: process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_PAGE || 'Page', // 当type文章类型与此值相同时，为单页。
     type_page_ss:
-      process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_PAGE_SS || 'ss',// 当type文章类型与此值相同时，为说说。
+      process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_PAGE_SS || 'Ss',// 当type文章类型与此值相同时，为说说。
     type_notice:
       process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_NOTICE || 'Notice', // 当type文章类型与此值相同时，为公告。
     type_menu: process.env.NEXT_PUBLIC_NOTION_PROPERTY_TYPE_MENU || 'Menu', // 当type文章类型与此值相同时，为菜单。
